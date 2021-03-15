@@ -6,6 +6,7 @@
 * :violin: Violinist
 * :metal: Metalhead
 * :flower_playing_cards: MTG affcionado
-* 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Pocinho)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Pocinho&theme=nord&count_private=true)
 
